@@ -4,8 +4,8 @@ theme: "starter-hugo-academic"
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Nicholas M. Smith # Website name
-baseURL: 'https://nms001.github.io/' # Website URL
+title: Noah Greifer # Website name
+baseURL: 'https://ngreifer.github.io/' # Website URL
 
 ############################
 ## LANGUAGE
